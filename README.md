@@ -1,4 +1,4 @@
-# [Your Calculator's Name]
+# [ James Jia | 15 Sept 2026 | Calculator]
 
 ## Overview
 [Write 2–3 sentences explaining what you are building
