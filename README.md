@@ -1,6 +1,6 @@
 # [ James Jia | 15 Sept 2026 | Calculator]
 
-! [calculator]https://github.com/9637888-sys/2027programming-portfolio/tree/main/Calculator
+! [calculator]
 [link to sourse]
 
 ## Overview
