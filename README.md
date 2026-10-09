@@ -1,6 +1,6 @@
 # [ James Jia | 15 Sept 2026 | Calculator]
 
-! [calculator]
+![Calculator Image](image/calculator%20image)
 [link to sourse]
 
 ## Overview
