@@ -1,7 +1,7 @@
 # [ James Jia | 15 Sept 2026 | Calculator]
 
 ![Calculator Image](image/calculator%20image)
-[link to sourse]
+[link to sourse](https://github.com/9637888-sys/2027programming-portfolio/tree/main/Calculator_)
 
 ## Overview
 [Write 2–3 sentences explaining what you are building
