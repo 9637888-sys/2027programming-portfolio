@@ -1,6 +1,7 @@
 # [ James Jia | 15 Sept 2026 | Calculator]
 
-! [calculator]https://github.com/9637888-sys/2027programming-portfolio/tree/main/Calculator_
+! [calculator]https://github.com/9637888-sys/2027programming-portfolio/tree/main/Calculator
+[link to sourse]
 
 ## Overview
 [Write 2–3 sentences explaining what you are building
