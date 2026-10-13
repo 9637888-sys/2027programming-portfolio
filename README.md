@@ -9,12 +9,11 @@ and what a user can do with it.]
 
 ## Current Status
 Working:
-- [A feature you have tested]
-- [Another feature you have tested]
+- Calculation.
+- change color when hover.
 
 Still in progress:
-- [A requirement you are finishing]
-
+- Limiting Answer on the screen
 ## How to Run
 Built with Processing.
 Processing version: [Your version]
